@@ -304,7 +304,7 @@ To know more about me click the link </h3>
         </div>
         <div class="row">
           <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate>
+            <form id="contactForm" name="sentMessage" action="mailto:yoru47@hotmail.com" method="post" enctype="text/plain">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
@@ -329,7 +329,8 @@ To know more about me click the link </h3>
                 <div class="clearfix"></div>
                 <div class="col-lg-12 text-center">
                   <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-xl" type="submit">Send Message</button>
+                  <input type="reset" value="Reset">
+                  <button id="sendMessageButton" class="btn btn-xl" type="submit" value="Send">Send Message</button>
                 </div>
               </div>
             </form>
