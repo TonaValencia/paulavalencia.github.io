@@ -1,2 +1,2 @@
-# tonavalencia.github.io
-My Design Portfolio
+# Tona Valencia Interctive Media Design tonavalencia.github.io
+Welcome to my portfolio
