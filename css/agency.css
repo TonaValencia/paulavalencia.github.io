@@ -12,7 +12,6 @@
 	    color: #b669f9; }
 
 	h1,
-	h2,
 	h3,
 	h4,
 	h5,
@@ -433,7 +432,7 @@
 
 	section#contact {
 	  background-color: #222222;
-	  background-image: url("../img/bg.jpg");
+	  background-image: url("../img/bg1.jpg");
 	  background-repeat: repeat;
 	  background-position: left; }
 	  section#contact .section-heading {
@@ -454,24 +453,24 @@
 	    font-weight: 700;
 	    color: #eeeeee;
 	    font-family: 'Saira', Helvetica, Arial, sans-serif;
-	    text-transform: uppercase; }
+	    }
 	  section#contact :-moz-placeholder {
 	    font-weight: 700;
 	    color: #eeeeee;
 	    /* Firefox 18- */
 	    font-family: 'Saira', Helvetica, Arial, sans-serif;
-	    text-transform: uppercase; }
+	     }
 	  section#contact ::-moz-placeholder {
 	    font-weight: 700;
 	    color: #eeeeee;
 	    /* Firefox 19+ */
 	    font-family: 'Saira', Helvetica, Arial, sans-serif;
-	    text-transform: uppercase; }
+	     }
 	  section#contact :-ms-input-placeholder {
 	    font-weight: 700;
 	    color: #eeeeee;
 	    font-family: 'Saira', Helvetica, Arial, sans-serif;
-	    text-transform: uppercase; }
+	 }
 	  section#contact .text-danger {
 	    color: #e74c3c; }
 
